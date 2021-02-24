@@ -15,8 +15,8 @@ int relays[RELAYS_AMOUNT] = {7,8,33,25,39,36,22,21};
 // GPRS config
 const char apn[] = "m-wap";
 // Wifi config
-//const char* ssid     = "YourWifiSSID";
-//const char* password = "YourWifiPassword";
+const char* ssid     = "YourWifiSSID";
+const char* password = "YourWifiPassword";
 // MQTT config
 #define PORT_MQTT 1883
 const char* broker = "bsmart2.cloud.shiftr.io";

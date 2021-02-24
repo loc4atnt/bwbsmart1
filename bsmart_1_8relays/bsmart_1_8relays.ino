@@ -17,8 +17,6 @@ const char apn[] = "m-wap";
 // Wifi config
 //const char* ssid     = "YourWifiSSID";
 //const char* password = "YourWifiPassword";
-const char* ssid     = "DUC NHAM";
-const char* password = "0573558170";
 // MQTT config
 #define PORT_MQTT 1883
 const char* broker = "bsmart2.cloud.shiftr.io";
